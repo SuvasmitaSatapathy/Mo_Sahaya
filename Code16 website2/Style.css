@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+    .navbar{
+        display: flex;
+    }
+    .nav-list{
+    width:50%;
+    background-color: rgb(231, 231, 12);
+    }
+    .nav-list li{
+    
+    }
+    .nav-list li a{
+    
+    }
+    
+    .rightNav{
+    background-color: blue;
+    width:70%;
+    }
